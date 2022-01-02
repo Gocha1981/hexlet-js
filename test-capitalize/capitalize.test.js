@@ -11,5 +11,5 @@ assert.equal(capitalize(''), '');//более короткий и информа
 //   throw new Error('Функция работает неверно!');
 // }
 
-console.log('Все тесты пройдены!');
+console.log('Все тесты пройдены!');// boom
 
